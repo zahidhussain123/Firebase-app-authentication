@@ -1,0 +1,19 @@
+form {
+  /* width: 500px; */
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  margin-top: 30px;
+
+}
+
+.logout{
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  margin-top: 20px;
+}
+
+.logout > button {
+  margin-top: 10px;
+}
